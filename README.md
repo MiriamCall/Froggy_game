@@ -4,9 +4,7 @@ The game I wrote is similar to the game Frogger. This game features a frog that 
 
 I wrote this software to learn more about writing games. I wanted to know how people design games and how intensive the code can be for that.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://www.youtube.com/watch?v=tFuMbKmCSwU
 
 # Development Environment
 
